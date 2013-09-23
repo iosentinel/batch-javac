@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export ALT_BOOTDIR="/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home"
+export ALT_BOOTDIR="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home"
 cd make
 make
 cd -
