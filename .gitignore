@@ -5,3 +5,4 @@ test/civet/classes/
 civet-test-output/
 nbproject/private/
 build/ant-diagnostics.log
+examples/
